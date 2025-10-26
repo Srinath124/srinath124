@@ -48,19 +48,4 @@
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/Srinath124">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:dharnasrinath6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="" target="https://www.linkedin.com/in/srinath-dharna-9311a1378/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Srinath124&color=blueviolet)
