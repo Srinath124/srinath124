@@ -11,14 +11,14 @@
   - Virtual Mouse using Hand Gestures  
   - Drowsiness Detection System  
   - Fraud URL Detection & AI-based Tools  
-- 💡 Passionate about **Hackathons, Open Source, and Problem Solving**
-- 📫 Reach me at **srinath124@gmail.com** (or your main mail)
+- 💡 Passionate about ** Open Source, and Problem Solving**
+- 📫 Reach me at **dharnasrinath6@gmail.com** 
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,flask,sqlite,mysql,git,github,vscode,linux,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,flask,sqlite,mysql,git,github,vscode,cpp,java" />
 </p>
 
 ---
@@ -42,8 +42,7 @@
 
 ---
 
-### 🏆 Achievements & Interests
-- 🥇 Hackathon Participant & Innovator  
+### 🏆 Achievements & Interests 
 - 💻 6 + Public Projects with AI & Automation  
 - 📈 Constant Learner – Exploring Cloud Deployment and AI APIs  
 
@@ -54,10 +53,10 @@
   <a href="https://github.com/Srinath124">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:srinath124@gmail.com">
+  <a href="mailto:dharnasrinath6@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="" target="https://www.linkedin.com/in/srinath-dharna-9311a1378/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
