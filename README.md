@@ -1,51 +1,58 @@
-
 <h1 align="center">Hi 👋, I'm Srinath</h1>
-<h3 align="center">💻 CSE Student | Full-Stack Developer | AI & IoT Enthusiast</h3>
 
----
+<h3 align="center">
+AI/ML Engineer • Software Developer • Computer Vision • AI Agents
+</h3>
 
-### 💫 About Me
-- 🎓 Diploma in **Computer Science Engineering**
-- 🌱 Currently exploring **Web Technologies & Data Science**
-- 🚀 Working on innovative projects like:
-  - Virtual Mouse using Hand Gestures  
-  - Drowsiness Detection System  
-  - Fraud URL Detection & AI-based Tools  
-- 💡 Passionate about ** Open Source, and Problem Solving**
-- 📫 Reach me at **dharnasrinath6@gmail.com** 
-
----
-
-### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,github,vscode,java" />
+  <a href="https://github.com/Srinath124">
+    <img src="https://komarev.com/ghpvc/?username=Srinath124&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Srinath124?tab=followers">
+    <img src="https://img.shields.io/github/followers/Srinath124?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
 ---
 
-### ⚡ Featured Projects
-| 🧩 Project | 🚀 Description | 🧠 Tech Used |
-|-------------|----------------|--------------|
-| 🖱️ [Hand-Gesture Virtual Mouse](https://github.com/Srinath124/Hand-Gesture-Virtual-Mouse-HGVM-) | Control mouse cursor via hand gestures. | Python • OpenCV • Mediapipe |
-| 🧠 [Advance Driving Drowsiness Detection](https://github.com/Srinath124/Advance-driving-drowsiness-detection) | AI model to detect driver fatigue. | Python • Dlib • OpenCV |
-| 🌍 [Air Pollution Awareness Platform](#) | Real-time AQI alerts & AI forecast. | React • Flask • Firebase |
-| 🔐 [Fraud URL Detection](https://github.com/Srinath124/Froud-URL-Detection) | Detect phishing websites using ML. | Python • Scikit-learn |
-| 📝 [To-Do List App](https://github.com/Srinath124/TO-DO_list) | Simple daily task manager. | HTML • CSS • JS |
+## 🧠 About Me
+
+I'm a Computer Science student focused on building **AI-powered systems, machine learning applications, computer vision solutions, and developer tools**.
+
+I prefer building things that actually work over collecting technologies.
+
+- 🎓 B.Tech — Artificial Intelligence & Machine Learning
+- 💻 Interested in **AI/ML Engineering, Computer Vision & Software Systems**
+- 🤖 Building experiments around **AI Agents and autonomous workflows**
+- 🧠 Working with **Machine Learning, Deep Learning and NLP**
+- ⚙️ Exploring **ML Engineering, DevOps and system-level development**
+- 🚀 Currently building and experimenting with **AI systems and developer-focused tools**
+- 🌱 Always learning by building
+- 📫 **Email:** dharnasrinath6@gmail.com
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinath124&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinath124&theme=tokyonight" height="150"/>
-</p>
+## ⚡ What I Build
 
----
-
-### 🏆 Achievements & Interests 
-- 💻 6 + Public Projects with AI & Automation  
-- 📈 Constant Learner – Exploring Cloud Deployment and AI APIs  
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Srinath124&color=blueviolet)
+```text
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        │     ├── Classification
+        │     ├── Forecasting
+        │     └── NLP
+        │
+        ├── Computer Vision
+        │     ├── Semantic Segmentation
+        │     ├── Gesture Recognition
+        │     └── Driver Monitoring
+        │
+        ├── AI Agents
+        │     ├── Autonomous Workflows
+        │     ├── Multi-Agent Systems
+        │     └── Agent Environments
+        │
+        └── Software Engineering
+              ├── Full Stack Development
+              ├── Developer Tools
+              └── Systems / Android
